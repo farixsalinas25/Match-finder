@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>Holi mundi</title>
+    <title>Holi mundi boli</title>
   </head>
   <body>
   $END$
